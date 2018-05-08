@@ -31,7 +31,7 @@
 //    [customWindow makeKeyAndVisible];
     
     /* 2 */
-//    [customObject show];
+    [customObject show];
 }
 
 - (void)didReceiveMemoryWarning {
